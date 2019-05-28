@@ -3,6 +3,7 @@ package iducs.java.b;
 public class Lion extends Mammal 
 {
 
+	
 	@Override
 	public void move() 
 	{

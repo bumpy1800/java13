@@ -9,7 +9,6 @@ public class AnimalsTest {
 		animal.sound();
 		
 	}
-	
 	public static void main(String[] args)
 	{
 		String str1 = "인덕대학교";

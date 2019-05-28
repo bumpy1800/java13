@@ -2,6 +2,7 @@ package iducs.java.b;
 
 public abstract class Mammal implements Animals 
 {
+	
 	abstract public void move();
 	
 	@Override
